@@ -8,5 +8,6 @@ int main(){
     a=pi*r*r;
     printf("circumference of circle :%f",c);
     printf("area of circle :%f",a);
+    return 0;
 }
 
