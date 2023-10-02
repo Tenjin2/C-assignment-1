@@ -23,3 +23,5 @@ int main(){
     }
     return 0;
 }
+/*used reverse of a number program and than checked if number is same or not.
+if it displays same than palindrome else it is not.*/
