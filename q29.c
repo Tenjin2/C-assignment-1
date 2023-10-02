@@ -17,18 +17,22 @@ int main(){
         case 4:
         {
             printf("THURSDAY");
+            break;
         }
         case 5:
         {
             printf("FRIDAY");
+            break;
         }
         case 6:
         {
             printf("SATURDAY");
+            break;
         }
         case 7:
         {
             printf("SUNDAY");
+            break;
         }
     }
     return 0;
